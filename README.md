@@ -1,2 +1,2 @@
 # event
-Event based programming concepts 
+Event based programming concepts and experiments
